@@ -1,2 +1,2 @@
-# 2019-01-15 Tidy Tuesdat: Space Launches
+# 2019-01-15 Tidy Tuesday: Space Launches
 
